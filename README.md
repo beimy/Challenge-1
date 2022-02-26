@@ -23,4 +23,4 @@ The main issues were as follows:
 
 SCREENSHOT OF FUNCTIONAL WEBSITE
 
-![Webpage Screenshot](/Develop/assets/images/_D__projects_challenge-1_Develop_index.html.png?raw=true "Sceenshot")
+![Webpage Screenshot](./Develop/assets/images/_D__projects_challenge-1_Develop_index.html.png?raw=true "Sceenshot")
