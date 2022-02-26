@@ -20,3 +20,7 @@ The main issues were as follows:
 5. Non-discriptive title.
 
 6. CSS styles were repeated often and could be consolidated. 
+
+SCREENSHOT OF FUNCTIONAL WEBSITE
+
+![Webpage Screenshot](/Develop/assets/images/_D__projects_challenge-1_Develop_index.html.png?raw=true "Sceenshot")
