@@ -1,5 +1,10 @@
 # Code Refactor Starter Code
 
+LINK: https://beimy.github.io/Challenge-1-Horiseon/
+
+REPO LINK: https://github.com/beimy/Challenge-1-Horiseon.git
+
+
 This site is a mock up of a real world buisness website. It's code was not up to industry standards when it came to accessibility, my aim is to fix that.
 
 The main issues were as follows:
